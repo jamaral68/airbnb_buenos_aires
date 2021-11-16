@@ -10,4 +10,4 @@ Neste projeto, é feita analise dos dados do Airbnb de Buenos Aires. Buenos Aire
 
 **Links**
 
-* [Instagram](https://www.linkedin.com/in/rafael-n-duarte/)
+* [LinkedIn](https://www.linkedin.com/in/jorge-amaral-78101627/)
